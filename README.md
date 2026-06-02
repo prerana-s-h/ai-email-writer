@@ -20,9 +20,6 @@ AI Email Writer is a Streamlit-based application that generates professional ema
 - Llama 3.3 70B
 
 ## Project Structure
-
-ai-email-writer/
-│
 ├── app.py
 ├── requirements.txt
 ├── .env
