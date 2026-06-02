@@ -19,26 +19,25 @@ AI Email Writer is a Streamlit-based application that generates professional ema
 - Groq API
 - Llama 3.3 70B
 
-## Project Structure
+ ## Project Structure
+
+```text
 ├── app.py
 ├── requirements.txt
 ├── .env
 ├── .gitignore
-│
 ├── modules/
-│ ├── generator.py
-│ ├── rewrite.py
-│ ├── analyzer.py
-│ └── followup.py
-│
+│   ├── generator.py
+│   ├── rewrite.py
+│   ├── analyzer.py
+│   └── followup.py
 ├── prompts/
-│ ├── email_templates.py
-│ └── tone_prompts.py
-│
+│   ├── email_templates.py
+│   └── tone_prompts.py
 ├── utils/
-│ └── helpers.py
-│
+│   └── helpers.py
 └── assets/
+```
 
 ## Installation
 
