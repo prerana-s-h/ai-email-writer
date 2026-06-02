@@ -1,4 +1,3 @@
-# ai-email-writer
 
 # AI Email Writer
 
