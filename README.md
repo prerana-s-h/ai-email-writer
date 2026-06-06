@@ -59,5 +59,6 @@ streamlit run app.py
 - Email analytics dashboard
 
 ## Author
+Prerana S H
 
 Prerana S H
