@@ -60,5 +60,3 @@ streamlit run app.py
 
 ## Author
 Prerana S H
-
-Prerana S H
