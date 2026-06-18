@@ -1,7 +1,7 @@
 
-# AI Email Writer
+# AI Email Generator
 
-AI Email Writer is a Streamlit-based application that generates professional emails using AI.
+AI Email Generator is a Streamlit-based application that generates professional emails using AI.
 
 ## Features
 
